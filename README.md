@@ -1,4 +1,4 @@
-# prismax-daily-bot
+# p-r-i-s-m-a
 
 <img width="1184" height="121" alt="Screenshot_184" src="https://github.com/user-attachments/assets/095f5ab1-c38a-48d3-9bc4-b6870d8854a9" />
 
