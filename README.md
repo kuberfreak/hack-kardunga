@@ -24,6 +24,7 @@ https://app.prismax.ai/
 - Command:
 ```
   git clone https://github.com/kuberfreak/hack-kardunga
+  hack-kardunga
 ```
 ```
  npm install chalk
