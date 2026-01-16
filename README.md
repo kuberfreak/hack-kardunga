@@ -27,6 +27,7 @@ https://app.prismax.ai/
   cd hack-kardunga
 ```
 ```
+sudo apt install npm
  npm install chalk
 ```
 - Done
