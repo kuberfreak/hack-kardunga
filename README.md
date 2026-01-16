@@ -20,7 +20,10 @@
 - Fill datas.txt with your solanaaddress/email|token, example: asd@gmail.com|token
 - Open terminal
 - Command:
-  > git clone https://github.com/kuberfreak/hack-kardunga
-
-  > npm install chalk
+```
+  git clone https://github.com/kuberfreak/hack-kardunga
+```
+```
+ npm install chalk
+```
 - Done
