@@ -11,7 +11,9 @@
 - Node.js or Bun
 
 # How to get token
-- Open discord
+```
+https://app.prismax.ai/
+```
 - Inspect Element (F12)
 - Go to Network -> Fetch/XHR -> search "get-users" and select that -> Response -> copy hash_code value
 
